@@ -15,14 +15,14 @@ Books : [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu
 
 <b> ☍ 2. [Sentiment classification](http://web.stanford.edu/class/cs221/assignments/sentiment/index.html)</b> ([zip]())
 
-<b> ☍ 3. Text reconstruction </b> ([zip]())
+<b> ☍ 3. [Text reconstruction](http://web.stanford.edu/class/cs221/assignments/reconstruct/index.html) </b> ([zip]())
 
-<b> ☍ 4. Blackjack</b> ([zip]())
+<b> ☍ 4. [Blackjack](http://web.stanford.edu/class/cs221/assignments/blackjack/index.html)</b> ([zip]())
 
-<b> ☍ 5. Pac-Man</b> ([zip]())
+<b> ☍ 5. [Pac-Man](http://web.stanford.edu/class/cs221/assignments/pacman/index.html)</b> ([zip]())
 
-<b> ☍ 6. Course scheduling </b> ([zip]())
+<b> ☍ 6. [Course scheduling](http://web.stanford.edu/class/cs221/assignments/scheduling/index.html) </b> ([zip]())
 
-<b> ☍ 7. Car tracking </b> ([zip]())
+<b> ☍ 7. [Car tracking](http://web.stanford.edu/class/cs221/assignments/car/index.html) </b> ([zip]())
 
-<b> ☍ 8. Language and logic </b> ([zip]())
+<b> ☍ 8. [Language and logic](http://web.stanford.edu/class/cs221/assignments/logic/index.html) </b> ([zip]())
