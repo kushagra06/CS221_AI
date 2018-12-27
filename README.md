@@ -11,18 +11,18 @@ Books : [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu
 
 # Projects :
 
-<b> ☍ 1. Foundations </b>
+<b> ☍ 1. [Foundations](http://web.stanford.edu/class/cs221/assignments/foundations/index.html) </b> ([zip]())
 
-<b> ☍ 2. Sentiment classification</b>
+<b> ☍ 2. [Sentiment classification](http://web.stanford.edu/class/cs221/assignments/sentiment/index.html)</b> ([zip]())
 
-<b> ☍ 3. Text reconstruction </b>
+<b> ☍ 3. Text reconstruction </b> ([zip]())
 
-<b> ☍ 4. Blackjack</b>
+<b> ☍ 4. Blackjack</b> ([zip]())
 
-<b> ☍ 5. Pac-Man</b>
+<b> ☍ 5. Pac-Man</b> ([zip]())
 
-<b> ☍ 6. Course scheduling </b>
+<b> ☍ 6. Course scheduling </b> ([zip]())
 
-<b> ☍ 7. Car tracking </b>
+<b> ☍ 7. Car tracking </b> ([zip]())
 
-<b> ☍ 8. Language and logic </b>
+<b> ☍ 8. Language and logic </b> ([zip]())
