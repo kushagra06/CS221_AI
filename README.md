@@ -40,7 +40,7 @@ Books : [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu
 𓁅 Linear classification, Loss minimization, Stochastic gradient descent [ [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/learning1.pdf) ] , [ [slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/learning1-6pp.pdf) ] <br/>
 𓁅 Section: optimization, probability, Python (review) [ [slide](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/section1.pdf) ] <br/>
 𓁅 Features and non-linearity, Neural networks, nearest neighbors [ [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/learning2.pdf) ] , [ [slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/learning2-6pp.pdf) ] <br/>
-𓁅 Generalization, Unsupervised learning, K-means [ [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/learning3.pdf) ], [ [slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/learning3-6pp.pdf) ] <br/>
+𓁅 Generalization, Unsupervised learning, K-means [ [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/learning3.pdf) ],[ [slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/learning3-6pp.pdf) ] <br/>
 𓁅 Section: Backpropagation and SciKit Learn [ [slide](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/section2.pdf) ] <br/>
 
 <h2><b> ♞ SEARCH</b></h2>
@@ -52,7 +52,7 @@ Books : [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu
 <h2><b> ♞ MARKOV DECISION PROCESSES</b></h2>
 
 𓁅 Policy evaluation, policy improvement, Policy iteration, value iteration [ [slide1p]() ] , [ [slide6p]() ] <br/>
-𓁅 Reinforcement learning, Monte Carlo, SARSA, Q-learning, Exploration/exploitation, function approximation [ [slide1p]() ] , [ [slide6p]() ] <br/>
+𓁅 Reinforcement learning, Monte Carlo, SARSA, Q-learning, Exploration/exploitation, function approximation [ [slide1p]() ],[ [slide6p]() ] <br/>
 𓁅 Section: deep reinforcement learning [ [slide]() ] <br/>
 
 <h2><b> ♞ GAME PLAYING</b></h2>
