@@ -32,6 +32,7 @@ Books : [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu
 # Course :
 
 <h2><b> ♞ INTRODUCTION </b></h2>
+𓁅 Overview of course, Optimization [ [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/overview.pdf) ] , [[slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/overview-6pp.pdf)] <br/>
 
 <h2><b> ♞ MACHINE LEARNING</b></h2>
 
@@ -42,15 +43,37 @@ Books : [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu
 𓁅 Section: Backpropagation and SciKit Learn [ [slide](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/section2.pdf) ] <br/>
 
 <h2><b> ♞ SEARCH</b></h2>
+𓁅 Overview of course, Optimization <br/>
+𓁅 Overview of course, Optimization <br/>
+𓁅 Overview of course, Optimization <br/>
+𓁅 Overview of course, Optimization <br/>
+𓁅 Overview of course, Optimization <br/>
 
 <h2><b> ♞ MARKOV DECISION PROCESSES</b></h2>
+𓁅 Overview of course, Optimization <br/>
+𓁅 Overview of course, Optimization <br/>
+𓁅 Overview of course, Optimization <br/>
 
 <h2><b> ♞ GAME PLAYING</b></h2>
+𓁅 Overview of course, Optimization <br/>
+𓁅 Overview of course, Optimization <br/>
+𓁅 Overview of course, Optimization <br/>
 
 <h2><b> ♞ CONSTRAINT SATISFACTION PROBLEMS</b></h2>
+𓁅 Overview of course, Optimization <br/>
+𓁅 Overview of course, Optimization <br/>
+𓁅 Overview of course, Optimization <br/>
 
 <h2><b> ♞ BAYESIAN NETWORKS</b></h2>
+𓁅 Overview of course, Optimization <br/>
+𓁅 Overview of course, Optimization <br/>
+𓁅 Overview of course, Optimization <br/>
 
 <h2><b> ♞ LOGIC</b></h2>
+𓁅 Overview of course, Optimization <br/>
+𓁅 Overview of course, Optimization <br/>
+𓁅 Overview of course, Optimization <br/>
 
 <h2><b> ♞ CONCLUSION</b></h2>
+𓁅 Overview of course, Optimization <br/>
+𓁅 Overview of course, Optimization <br/>
