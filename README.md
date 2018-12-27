@@ -32,11 +32,11 @@ Books : [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu
 # Course :
 
 <h2><b> ♞ INTRODUCTION </b></h2>
-𓁅 Linear classification, Loss minimization, Stochastic gradient descent
-𓁅 Section: optimization, probability, Python (review)
-𓁅 Features and non-linearity, Neural networks, nearest neighbors
-𓁅 Generalization, Unsupervised learning, K-means
-𓁅 Section: Backpropagation and SciKit Learn
+𓁅 Linear classification, Loss minimization, Stochastic gradient descent<br/>
+𓁅 Section: optimization, probability, Python (review)<br/>
+𓁅 Features and non-linearity, Neural networks, nearest neighbors<br/>
+𓁅 Generalization, Unsupervised learning, K-means<br/>
+𓁅 Section: Backpropagation and SciKit Learn<br/>
 
 <h2><b> ♞ MACHINE LEARNING</b></h2>
 
