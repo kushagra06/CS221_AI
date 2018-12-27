@@ -3,7 +3,7 @@
 
 CS221 [ [this playlist](https://www.youtube.com/watch?v=8CWyxTrqLJs&list=PLVulhINWRk9GBHV61MTf1ZzaFCcgkszMK) ] in Youtube, lists the video lectures of CS221 Autumn 2018-19. Having Access to the video lectures is great. Since I didn't pay for the course, The only difference is , you don't get to ask TA's, submit the projects, but, you get access to notes and slides from the course website, get to learn CS221 ( & that's what matters the most). Also, I was lucky to have access to  CS221 Piazza class (CS221 doubt clearing channel) as I had access to my stanford email account. All in all, if you want to learn, stay truthful, learn the content well, be curious and Maintain Honor Code.
 
-# [[Schedule](http://web.stanford.edu/class/cs221/#schedule)] ; [[Coursework](http://web.stanford.edu/class/cs221/#coursework)] ; [[CS221 2017-18 Autumn Class](http://web.stanford.edu/class/cs221/2018/)] ; [[2013](http://stanford.edu/~cpiech/cs221/)]
+# [[Schedule](http://web.stanford.edu/class/cs221/#schedule)] ; [[Coursework](http://web.stanford.edu/class/cs221/#coursework)] ; [[CS221 2017-18 Autumn Class](http://web.stanford.edu/class/cs221/2018/)] 
 
 <p align="justify">What do web search, speech recognition, face recognition, machine translation, autonomous driving, and automatic scheduling have in common? These are all complex real-world problems, and the goal of artificial intelligence (AI) is to tackle these with rigorous mathematical tools. In this course, we will learn the foundational principles that drive these applications and practice implementing some of these systems. Specific topics include <b>machine learning, search, game playing, Markov decision processes, constraint satisfaction, graphical models, and logic</b>. The main goal of the course is to equip us with the tools to tackle new AI problems we might encounter in life.</p>
 
@@ -76,11 +76,13 @@ Books : [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu
 
 <h2><b> ♞ LOGIC</b></h2>
 
-𓁅 Syntax versus semantics, Propositional logic, Horn clauses [ [slide1p]() ] , [ [slide6p]() ] <br/>
-𓁅 First-order logic, Resolution [ [slide1p]() ] , [ [slide6p]() ] <br/>
+𓁅 Syntax versus semantics, Propositional logic, Horn clauses [ [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/logic1.pdf) ] , [ [slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/logic1-6pp.pdf) ] <br/>
+𓁅 First-order logic, Resolution [ [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/logic2.pdf) ] , [ [slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/logic2-6pp.pdf) ] <br/>
 
 <h2><b> ♞ CONCLUSION</b></h2>
 
-𓁅 Deep learning, autoencoders, CNNs, RNNs [ [slide1p]() ] , [ [slide6p]() ] <br/>
-𓁅 Section: semantic parsing (advanced), Higher-order logics, Markov logic, Semantic parsing [ [slide]() ] <br/>
-𓁅 Summary, future of AI [ [slide1p]() ] , [ [slide6p]() ] <br/>
+𓁅 Deep learning, autoencoders, CNNs, RNNs [ [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/deep.pdf) ] , [ [slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/deep-6pp.pdf) ] <br/>
+𓁅 Section: semantic parsing (advanced), Higher-order logics, Markov logic, Semantic parsing [ [slide](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/section9.pdf) ] <br/>
+𓁅 Summary, future of AI [ [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/conclusion.pdf) ] , [ [slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/conclusion-6pp.pdf) ] <br/>
+
+ [Exam Papers]() ; [[221@2013](http://stanford.edu/~cpiech/cs221/)]
