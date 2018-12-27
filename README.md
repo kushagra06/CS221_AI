@@ -11,18 +11,18 @@ Books : [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu
 
 # Projects :
 
-<b> ☍ 1. [Foundations](http://web.stanford.edu/class/cs221/assignments/foundations/index.html) </b> (| [zip]() |)
+<b> ☍ 1. [Foundations](http://web.stanford.edu/class/cs221/assignments/foundations/index.html) </b> ⛫ ( [zip]() )
 
-<b> ☍ 2. [Sentiment classification](http://web.stanford.edu/class/cs221/assignments/sentiment/index.html)</b> (| [zip]() |)
+<b> ☍ 2. [Sentiment classification](http://web.stanford.edu/class/cs221/assignments/sentiment/index.html)</b> ⛫ ( [zip]() )
 
-<b> ☍ 3. [Text reconstruction](http://web.stanford.edu/class/cs221/assignments/reconstruct/index.html) </b> (| [zip]() |)
+<b> ☍ 3. [Text reconstruction](http://web.stanford.edu/class/cs221/assignments/reconstruct/index.html) </b> ⛫ ( [zip]() )
 
-<b> ☍ 4. [Blackjack](http://web.stanford.edu/class/cs221/assignments/blackjack/index.html)</b> (| [zip]() |)
+<b> ☍ 4. [Blackjack](http://web.stanford.edu/class/cs221/assignments/blackjack/index.html)</b> ⛫ ( [zip](https://github.com/SKKSaikia/CS221_AI/blob/master/blackjack.zip) )
 
-<b> ☍ 5. [Pac-Man](http://web.stanford.edu/class/cs221/assignments/pacman/index.html)</b> (| [zip]() |)
+<b> ☍ 5. [Pac-Man](http://web.stanford.edu/class/cs221/assignments/pacman/index.html)</b> ⛫ ( [zip]() )
 
-<b> ☍ 6. [Course scheduling](http://web.stanford.edu/class/cs221/assignments/scheduling/index.html) </b> (| [zip]() |)
+<b> ☍ 6. [Course scheduling](http://web.stanford.edu/class/cs221/assignments/scheduling/index.html) </b> ⛫ ( [zip]() )
 
-<b> ☍ 7. [Car tracking](http://web.stanford.edu/class/cs221/assignments/car/index.html) </b> (| [zip]() |)
+<b> ☍ 7. [Car tracking](http://web.stanford.edu/class/cs221/assignments/car/index.html) </b> ⛫ ( [zip]() )
 
-<b> ☍ 8. [Language and logic](http://web.stanford.edu/class/cs221/assignments/logic/index.html) </b> (| [zip]() |)
+<b> ☍ 8. [Language and logic](http://web.stanford.edu/class/cs221/assignments/logic/index.html) </b> ⛫ ( [zip]() )
