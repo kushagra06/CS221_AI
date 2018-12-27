@@ -9,7 +9,7 @@ CS221 [ [this playlist](https://www.youtube.com/watch?v=8CWyxTrqLJs&list=PLVulhI
 
 Books : [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/) , [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 
-# Projects :
+# Projects : (py/2.7)
 
 <b> ☍ 1. [Foundations](http://web.stanford.edu/class/cs221/assignments/foundations/index.html) </b> ⛫ ( [zip](https://github.com/SKKSaikia/CS221_AI/blob/master/foundations.zip) )
 
@@ -69,10 +69,10 @@ Books : [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu
 
 <h2><b> ♞ BAYESIAN NETWORKS</b></h2>
 
-𓁅 Bayesian inference, Marginal independence, Hidden Markov models [ [slide1p]() ] , [ [slide6p]() ] <br/>
-𓁅 Forward-backward, Gibbs sampling, Particle filtering [ [slide1p]() ] , [ [slide6p]() ] <br/>
-𓁅 Section: Bayesian networks [ [slide]() ] <br/>
-𓁅 Learning Bayesian networks, Laplace smoothing, Expectation Maximization [ [slide1p]() ] , [ [slide6p]() ] , [ [supplementary]() ] <br/>
+𓁅 Bayesian inference, Marginal independence, Hidden Markov models [ [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/bayes1.pdf) ] , [ [slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/bayes1-6pp.pdf) ] <br/>
+𓁅 Forward-backward, Gibbs sampling, Particle filtering [ [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/bayes2.pdf) ] , [ [slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/bayes2-6pp.pdf) ] <br/>
+𓁅 Section: Bayesian networks [ [slide](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/section7.pdf) ] <br/>
+𓁅 Learning Bayesian networks, Laplace smoothing, Expectation Maximization [ [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/bayes3.pdf) ] , [ [slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/bayes3-6pp.pdf) ] , [ [supplementary]() ] <br/>
 
 <h2><b> ♞ LOGIC</b></h2>
 
