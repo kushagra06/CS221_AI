@@ -68,6 +68,7 @@ Books : [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu
 𓁅 Section: CSPs [ [slide]() ] <br/>
 
 <h2><b> ♞ BAYESIAN NETWORKS</b></h2>
+
 𓁅 Bayesian inference, Marginal independence, Hidden Markov models [ [slide1p]() ] , [ [slide6p]() ] <br/>
 𓁅 Forward-backward, Gibbs sampling, Particle filtering [ [slide1p]() ] , [ [slide6p]() ] <br/>
 𓁅 Section: Bayesian networks [ [slide]() ] <br/>
