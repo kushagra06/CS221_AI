@@ -52,7 +52,7 @@ Books : [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu
 <h2><b> ♞ MARKOV DECISION PROCESSES</b></h2>
 
 𓁅 Policy evaluation, policy improvement, Policy iteration, value iteration [ [slide1p]() ] , [ [slide6p]() ] <br/>
-𓁅 Reinforcement learning, Monte Carlo, SARSA, Q-learning, Exploration/exploitation, function approximation [ [slide1p]() ],[ [slide6p]() ] <br/>
+𓁅 Reinforcement learning, Monte Carlo, SARSA, Q-learning, Exploration/exploitation, function approximation [[slide1p]()],[[slide6p]()] <br/>
 𓁅 Section: deep reinforcement learning [ [slide]() ] <br/>
 
 <h2><b> ♞ GAME PLAYING</b></h2>
