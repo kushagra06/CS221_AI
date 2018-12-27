@@ -11,4 +11,18 @@ Books : [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu
 
 # Projects :
 
-<b> 1. Foundations </b>
+<b> ☍ 1. Foundations </b>
+
+<b> ☍ 2. Sentiment classification</b>
+
+<b> ☍ 3. Text reconstruction </b>
+
+<b> ☍ 4. Blackjack</b>
+
+<b> ☍ 5. Pac-Man</b>
+
+<b> ☍ 6. Course scheduling </b>
+
+<b> ☍ 7. Car tracking </b>
+
+<b> ☍ 8. Language and logic </b>
