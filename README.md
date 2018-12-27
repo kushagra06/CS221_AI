@@ -89,6 +89,5 @@ Books : [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu
  
 # PSets
  
-𓀌 [Search](http://stanford.edu/~cpiech/cs221/homework/pset/search.html) : [Solution](https://docs.google.com/document/d/16akigdAiTuInQrAtZbHtkDCh9c8_0wp5DjU-fCeFJLY/edit#heading=h.y6c5hny1kn74) <br/>
-𓀌 [Variables](http://stanford.edu/~cpiech/cs221/homework/pset/variables.html) : [Solution](https://docs.google.com/document/d/13hvQZsgwVfIUA2_QGcExcd9DM6NDHYbRO3yCvO6SPfE/edit#heading=h.oy2zuawh43a7) <br/>
+𓀌 [Search](http://stanford.edu/~cpiech/cs221/homework/pset/search.html) : [Solution](https://docs.google.com/document/d/16akigdAiTuInQrAtZbHtkDCh9c8_0wp5DjU-fCeFJLY/edit#heading=h.y6c5hny1kn74) | [Variables](http://stanford.edu/~cpiech/cs221/homework/pset/variables.html) : [Solution](https://docs.google.com/document/d/13hvQZsgwVfIUA2_QGcExcd9DM6NDHYbRO3yCvO6SPfE/edit#heading=h.oy2zuawh43a7) <br/>
 
