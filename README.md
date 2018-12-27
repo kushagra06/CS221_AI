@@ -63,16 +63,16 @@ Books : [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu
 
 <h2><b> ♞ CONSTRAINT SATISFACTION PROBLEMS</b></h2>
 
-𓁅 Factor graphs, Backtracking search, Dynamic ordering, arc consistency [ [slide1p]() ] , [ [slide6p]() ] <br/>
-𓁅 Beam search, local search, Conditional independence, variable elimination [ [slide1p]() ] , [ [slide6p]() ] <br/>
-𓁅 Section: CSPs [ [slide]() ] <br/>
+𓁅 Factor graphs, Backtracking search, Dynamic ordering, arc consistency [ [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/csp1.pdf) ] , [ [slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/csp1-6pp.pdf) ] <br/>
+𓁅 Beam search, local search, Conditional independence, variable elimination [ [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/csp2.pdf) ] , [ [slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/csp2-6pp.pdf) ] <br/>
+𓁅 Section: CSPs [ [slide](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/section6.pdf) ] <br/>
 
 <h2><b> ♞ BAYESIAN NETWORKS</b></h2>
 
 𓁅 Bayesian inference, Marginal independence, Hidden Markov models [ [slide1p]() ] , [ [slide6p]() ] <br/>
 𓁅 Forward-backward, Gibbs sampling, Particle filtering [ [slide1p]() ] , [ [slide6p]() ] <br/>
 𓁅 Section: Bayesian networks [ [slide]() ] <br/>
-𓁅 Learning Bayesian networks, Laplace smoothing, Expectation Maximization [ [slide1p]() ] , [ [slide6p]() ] <br/>
+𓁅 Learning Bayesian networks, Laplace smoothing, Expectation Maximization [ [slide1p]() ] , [ [slide6p]() ] , [ [supplementary]() ] <br/>
 
 <h2><b> ♞ LOGIC</b></h2>
 𓁅 Overview of course, Optimization <br/>
