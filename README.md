@@ -31,20 +31,20 @@ Books : [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu
 
 # Course :
 
-<h2><b> 🏔 INTRODUCTION </b></h2>
+<h2><b> ♞ INTRODUCTION </b></h2>
 
-<h2><b> 🏔 MACHINE LEARNING</b></h2>
+<h2><b> ♞ MACHINE LEARNING</b></h2>
 
-<h2><b> 🏔 </b></h2>
+<h2><b> ♞ SEARCH</b></h2>
 
-<h2><b> 🏔 </b></h2>
+<h2><b> ♞ MARKOV DECISION PROCESSES</b></h2>
 
-<h2><b> 🏔 </b></h2>
+<h2><b> ♞ GAME PLAYING</b></h2>
 
-<h2><b> 🏔 </b></h2>
+<h2><b> ♞ CONSTRAINT SATISFACTION PROBLEMS</b></h2>
 
-<h2><b> 🏔 </b></h2>
+<h2><b> ♞ BAYESIAN NETWORKS</b></h2>
 
-<h2><b> 🏔 </b></h2>
+<h2><b> ♞ LOGIC</b></h2>
 
-<h2><b> 🏔 </b></h2>
+<h2><b> ♞ CONCLUSION</b></h2>
