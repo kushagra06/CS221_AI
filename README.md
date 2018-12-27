@@ -8,3 +8,7 @@ CS221 [ [this playlist](https://www.youtube.com/watch?v=8CWyxTrqLJs&list=PLVulhI
 What do web search, speech recognition, face recognition, machine translation, autonomous driving, and automatic scheduling have in common? These are all complex real-world problems, and the goal of artificial intelligence (AI) is to tackle these with rigorous mathematical tools. In this course, we will learn the foundational principles that drive these applications and practice implementing some of these systems. Specific topics include <b>machine learning, search, game playing, Markov decision processes, constraint satisfaction, graphical models, and logic</b>. The main goal of the course is to equip us with the tools to tackle new AI problems we might encounter in life.
 
 Books : [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/) , [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
+
+# Projects :
+
+<b> 1. Foundations </b>
