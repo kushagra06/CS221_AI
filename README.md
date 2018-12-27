@@ -57,9 +57,9 @@ Books : [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu
 
 <h2><b> ♞ GAME PLAYING</b></h2>
 
-𓁅 Minimax, expectimax, Evaluation functions, Alpha-beta pruning [ [slide1p]() ] , [ [slide6p]() ] <br/>
-𓁅 TD learning, Game theory [ [slide1p]() ] , [ [slide6p]() ] <br/>
-𓁅 Section: AlphaZero [ [slide]() ] <br/>
+𓁅 Minimax, expectimax, Evaluation functions, Alpha-beta pruning [ [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/games1.pdf) ] , [ [slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/games1-6pp.pdf) ] <br/>
+𓁅 TD learning, Game theory [ [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/games2.pdf) ] , [ [slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/games2-6pp.pdf) ] <br/>
+𓁅 Section: AlphaZero [ [slide](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/section5.pdf) ] <br/>
 
 <h2><b> ♞ CONSTRAINT SATISFACTION PROBLEMS</b></h2>
 
