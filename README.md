@@ -44,11 +44,10 @@ Books : [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu
 𓁅 Section: Backpropagation and SciKit Learn [ [slide](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/section2.pdf) ] <br/>
 
 <h2><b> ♞ SEARCH</b></h2>
-𓁅 Overview of course, Optimization <br/>
-𓁅 Overview of course, Optimization <br/>
-𓁅 Overview of course, Optimization <br/>
-𓁅 Overview of course, Optimization <br/>
-𓁅 Overview of course, Optimization <br/>
+
+𓁅 Tree search, Dynamic programming, uniform cost search [ [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/search1.pdf) ] , [ [slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/search1-6pp.pdf) ] <br/>
+𓁅 A*, consistent heuristics, Relaxation [ [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/search2.pdf) ] , [ [slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/search2-6pp.pdf) ] <br/>
+𓁅 Section: UCS,Dynamic Programming, A* [ [slide](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/section3.pdf) ] <br/>
 
 <h2><b> ♞ MARKOV DECISION PROCESSES</b></h2>
 𓁅 Overview of course, Optimization <br/>
