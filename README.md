@@ -32,7 +32,7 @@ Books : [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu
 # Course :
 
 <h2><b> ♞ INTRODUCTION </b></h2>
-𓁅 Overview of course, Optimization [[slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/overview.pdf)] , [[slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/overview-6pp.pdf)] 
+𓁅 Overview of course, Optimization [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/overview.pdf), [slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/overview-6pp.pdf) 
 
 <h2><b> ♞ MACHINE LEARNING</b></h2>
 
