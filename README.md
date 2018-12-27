@@ -56,19 +56,22 @@ Books : [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu
 𓁅 Section: deep reinforcement learning [ [slide](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/section4.pdf) ] <br/>
 
 <h2><b> ♞ GAME PLAYING</b></h2>
-𓁅 Overview of course, Optimization <br/>
-𓁅 Overview of course, Optimization <br/>
-𓁅 Overview of course, Optimization <br/>
+
+𓁅 Minimax, expectimax, Evaluation functions, Alpha-beta pruning [ [slide1p]() ] , [ [slide6p]() ] <br/>
+𓁅 TD learning, Game theory [ [slide1p]() ] , [ [slide6p]() ] <br/>
+𓁅 Section: AlphaZero [ [slide]() ] <br/>
 
 <h2><b> ♞ CONSTRAINT SATISFACTION PROBLEMS</b></h2>
-𓁅 Overview of course, Optimization <br/>
-𓁅 Overview of course, Optimization <br/>
-𓁅 Overview of course, Optimization <br/>
+
+𓁅 Factor graphs, Backtracking search, Dynamic ordering, arc consistency [ [slide1p]() ] , [ [slide6p]() ] <br/>
+𓁅 Beam search, local search, Conditional independence, variable elimination [ [slide1p]() ] , [ [slide6p]() ] <br/>
+𓁅 Section: CSPs [ [slide]() ] <br/>
 
 <h2><b> ♞ BAYESIAN NETWORKS</b></h2>
-𓁅 Overview of course, Optimization <br/>
-𓁅 Overview of course, Optimization <br/>
-𓁅 Overview of course, Optimization <br/>
+𓁅 Bayesian inference, Marginal independence, Hidden Markov models [ [slide1p]() ] , [ [slide6p]() ] <br/>
+𓁅 Forward-backward, Gibbs sampling, Particle filtering [ [slide1p]() ] , [ [slide6p]() ] <br/>
+𓁅 Section: Bayesian networks [ [slide]() ] <br/>
+𓁅 Learning Bayesian networks, Laplace smoothing, Expectation Maximization [ [slide1p]() ] , [ [slide6p]() ] <br/>
 
 <h2><b> ♞ LOGIC</b></h2>
 𓁅 Overview of course, Optimization <br/>
