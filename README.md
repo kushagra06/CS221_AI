@@ -34,7 +34,8 @@ Books : [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu
 <h2><b> ♞ INTRODUCTION </b></h2>
 
 <h2><b> ♞ MACHINE LEARNING</b></h2>
-𓁅 Linear classification, Loss minimization, Stochastic gradient descent [[slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/learning1.pdf)] , [[slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/learning1-6pp.pdf)] <br/> 
+
+𓁅 Linear classification, Loss minimization, Stochastic gradient descent [ [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/learning1.pdf) ] , [ [slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/learning1-6pp.pdf) ]
 𓁅 Section: optimization, probability, Python (review)<br/>
 𓁅 Features and non-linearity, Neural networks, nearest neighbors<br/>
 𓁅 Generalization, Unsupervised learning, K-means<br/>
