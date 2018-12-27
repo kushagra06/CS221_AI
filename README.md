@@ -9,7 +9,7 @@ CS221 [ [this playlist](https://www.youtube.com/watch?v=8CWyxTrqLJs&list=PLVulhI
 
 Books : [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/) , [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 
-# Projects : (py/2.7)
+# Projects : (py/2.7) | [Final Projects](https://web.stanford.edu/class/cs221/2018/project-list.html)
 
 <b> ☍ 1. [Foundations](http://web.stanford.edu/class/cs221/assignments/foundations/index.html) </b> ⛫ ( [zip](https://github.com/SKKSaikia/CS221_AI/blob/master/foundations.zip) )
 
