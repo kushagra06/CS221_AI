@@ -75,10 +75,12 @@ Books : [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu
 𓁅 Learning Bayesian networks, Laplace smoothing, Expectation Maximization [ [slide1p]() ] , [ [slide6p]() ] , [ [supplementary]() ] <br/>
 
 <h2><b> ♞ LOGIC</b></h2>
-𓁅 Overview of course, Optimization <br/>
-𓁅 Overview of course, Optimization <br/>
-𓁅 Overview of course, Optimization <br/>
+
+𓁅 Syntax versus semantics, Propositional logic, Horn clauses [ [slide1p]() ] , [ [slide6p]() ] <br/>
+𓁅 First-order logic, Resolution [ [slide1p]() ] , [ [slide6p]() ] <br/>
 
 <h2><b> ♞ CONCLUSION</b></h2>
-𓁅 Overview of course, Optimization <br/>
-𓁅 Overview of course, Optimization <br/>
+
+𓁅 Deep learning, autoencoders, CNNs, RNNs [ [slide1p]() ] , [ [slide6p]() ] <br/>
+𓁅 Section: semantic parsing (advanced), Higher-order logics, Markov logic, Semantic parsing [ [slide]() ] <br/>
+𓁅 Summary, future of AI [ [slide1p]() ] , [ [slide6p]() ] <br/>
