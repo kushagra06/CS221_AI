@@ -85,4 +85,10 @@ Books : [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu
 𓁅 Section: semantic parsing (advanced), Higher-order logics, Markov logic, Semantic parsing [ [slide](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/section9.pdf) ] <br/>
 𓁅 Summary, future of AI [ [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/conclusion.pdf) ] , [ [slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/conclusion-6pp.pdf) ] <br/>
 
- [Exam Papers]() ; [[221@2013](http://stanford.edu/~cpiech/cs221/)]
+ [Exam Papers]() ; [[221@2013](http://stanford.edu/~cpiech/cs221/)] | [e.g](https://youtu.be/MkuwIrTuFSM)
+ 
+# PSets
+ 
+𓀌 [Search](http://stanford.edu/~cpiech/cs221/homework/pset/search.html) : [Solution](https://docs.google.com/document/d/16akigdAiTuInQrAtZbHtkDCh9c8_0wp5DjU-fCeFJLY/edit#heading=h.y6c5hny1kn74) <br/>
+𓀌 [Variables](http://stanford.edu/~cpiech/cs221/homework/pset/variables.html) : [Solution](https://docs.google.com/document/d/13hvQZsgwVfIUA2_QGcExcd9DM6NDHYbRO3yCvO6SPfE/edit#heading=h.oy2zuawh43a7) <br/>
+
