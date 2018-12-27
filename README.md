@@ -87,7 +87,5 @@ Books : [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu
 
  [Exam Papers](https://github.com/SKKSaikia/CS221_AI/tree/master/exams) - [F2017](), [F2016](https://github.com/SKKSaikia/CS221_AI/blob/master/exams/2016_final_solution.pdf), [F2015](), [F2014](), [F2013](), [M2013](https://github.com/SKKSaikia/CS221_AI/blob/master/exams/2013-midterm.pdf) , [F2012](https://github.com/SKKSaikia/CS221_AI/blob/master/exams/final_practice_solution_fall_2012.pdf), [M2012](https://github.com/SKKSaikia/CS221_AI/blob/master/exams/midterm_practice_solution_2012.pdf) ; [[221@2013](http://stanford.edu/~cpiech/cs221/)] | Project [e.g](https://youtu.be/MkuwIrTuFSM) | [e.gII](https://youtu.be/yY-Di8dT9mY)
  
-# PSets
- 
-𓀌 [Search](http://stanford.edu/~cpiech/cs221/homework/pset/search.html) : [Solution](https://docs.google.com/document/d/16akigdAiTuInQrAtZbHtkDCh9c8_0wp5DjU-fCeFJLY/edit#heading=h.y6c5hny1kn74) | [Variables](http://stanford.edu/~cpiech/cs221/homework/pset/variables.html) : [Solution](https://docs.google.com/document/d/13hvQZsgwVfIUA2_QGcExcd9DM6NDHYbRO3yCvO6SPfE/edit#heading=h.oy2zuawh43a7) <br/>
+<b> PSets </b> 𓀌 [Search](http://stanford.edu/~cpiech/cs221/homework/pset/search.html) : [Solution](https://docs.google.com/document/d/16akigdAiTuInQrAtZbHtkDCh9c8_0wp5DjU-fCeFJLY/edit#heading=h.y6c5hny1kn74) | [Variables](http://stanford.edu/~cpiech/cs221/homework/pset/variables.html) : [Solution](https://docs.google.com/document/d/13hvQZsgwVfIUA2_QGcExcd9DM6NDHYbRO3yCvO6SPfE/edit#heading=h.oy2zuawh43a7) <br/>
 
