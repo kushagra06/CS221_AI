@@ -32,6 +32,7 @@ Books : [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu
 # Course :
 
 <h2><b> ♞ INTRODUCTION </b></h2>
+
 𓁅 Overview of course, Optimization [slide1p]() , [slide6p]()
 
 <h2><b> ♞ MACHINE LEARNING</b></h2>
