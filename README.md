@@ -19,7 +19,11 @@ Books : [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu
 
 <b> ☍ 4. [Blackjack](http://web.stanford.edu/class/cs221/assignments/blackjack/index.html)</b> ⛫ ( [zip](https://github.com/SKKSaikia/CS221_AI/blob/master/blackjack.zip) )
 
+<img src="https://github.com/SKKSaikia/CS221_AI/blob/master/img/blackjack.jpg" height=400px>
+
 <b> ☍ 5. [Pac-Man](http://web.stanford.edu/class/cs221/assignments/pacman/index.html)</b> ⛫ ( [zip](https://github.com/SKKSaikia/CS221_AI/blob/master/pacman.zip) )
+
+<img src="https://github.com/SKKSaikia/CS221_AI/blob/master/img/pacman_multi_agent.png" height=400px>
 
 <b> ☍ 6. [Course scheduling](http://web.stanford.edu/class/cs221/assignments/scheduling/index.html) </b> ⛫ ( [zip](https://github.com/SKKSaikia/CS221_AI/blob/master/scheduling.zip) )
 
