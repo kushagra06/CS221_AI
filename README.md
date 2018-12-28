@@ -109,4 +109,4 @@ Books : [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu
 
 # FINAL PROJECT | [Past Final Projects](https://web.stanford.edu/class/cs221/2018/project-list.html)
 
-Since the Marks Distribution is <b> Homework - 60%</b> , <b> Exam - 20%</b> and <b> Final Project- 20%</b>. I legit enjoy learning the past posters of CS221, they are exciting. The Final project I made is : " AI playing Mario : Reinforcement Learning Approach ", [here](https://github.com/SKKSaikia/Mario_AI) is the implementation/code and the poster I made is here:
+Since the Marks Distribution is <b> Homework - 60%</b> , <b> Exam - 20%</b> and <b> Final Project- 20%</b>. I legit enjoy learning the past posters of CS221, they are exciting. The Final project I made is : <b>" AI playing Mario : Reinforcement Learning Approach "</b>, [here](https://github.com/SKKSaikia/Mario_AI) is the implementation/code and the poster I made is here:
