@@ -9,7 +9,7 @@ CS221 is "the" intro AI class at Stanford and [ [this playlist](https://www.yout
 
 Books : [Artificial Intelligence: A Modern Approach / AIMA](http://aima.cs.berkeley.edu/) , [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 
-<b>AIMA</b> is a great book. Here - [PSEUDOCODE algorithms](https://github.com/SKKSaikia/CS221_AI/blob/master/docs/algorithms.pdf), [AIMA code repo](http://aima.cs.berkeley.edu/code.html), [Resources](http://aima.cs.berkeley.edu/books.html) from the book. 
+<b>[AIMA](https://faculty.psau.edu.sa/filedownload/doc-7-pdf-a154ffbcec538a4161a406abf62f5b76-original.pdf)</b> is a great book. Here - [PSEUDOCODE algorithms](https://github.com/SKKSaikia/CS221_AI/blob/master/docs/algorithms.pdf), [AIMA code repo](http://aima.cs.berkeley.edu/code.html), [Resources](http://aima.cs.berkeley.edu/books.html) from the book. 
 
 # Homeworks : (py/2.7) 
 
