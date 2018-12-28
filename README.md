@@ -25,6 +25,8 @@ Books : [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu
 
 <b> ☍ 7. [Car tracking](http://web.stanford.edu/class/cs221/assignments/car/index.html) </b> ⛫ ( [zip](https://github.com/SKKSaikia/CS221_AI/blob/master/car.zip) )
 
+<img src="https://github.com/SKKSaikia/CS221_AI/blob/master/img/car3.png" height=300px><a> </a><img src="https://github.com/SKKSaikia/CS221_AI/blob/master/img/emission.png" height=300px>
+
 <b> ☍ 8. [Language and logic](http://web.stanford.edu/class/cs221/assignments/logic/index.html) </b> ⛫ ( [zip](https://github.com/SKKSaikia/CS221_AI/blob/master/logic.zip) )
 
 @ [Paper Projects](http://web.stanford.edu/class/cs221/2018/project-list.html) | [Guidelines](http://web.stanford.edu/class/cs221/project.html#p-proposal)
