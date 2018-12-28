@@ -1,7 +1,7 @@
 # [CS221: Artificial Intelligence: Principles and Techniques](http://web.stanford.edu/class/cs221/)
 <img src="https://github.com/SKKSaikia/CS221_AI/blob/master/img/cs221.PNG">
 
-CS221 is "the" intro AI class at Stanford and [ [this playlist](https://www.youtube.com/watch?v=8CWyxTrqLJs&list=PLVulhINWRk9GBHV61MTf1ZzaFCcgkszMK) ] in Youtube, lists the video lectures of CS221 Autumn 2018-19 ( I guess someone uploaded the videos without knowing the terms of taking the class ). Having Access to the video lectures is great, makes going through the slides easier. Since I didn't pay for the course [I am not a Full-time Stanford Student], The only difference is , you don't get to ask TA's, submit the projects, but, you get access to notes and slides from the course website, get to learn CS221 ( & that's what matters the most). Also, I was lucky to have access to  CS221 Piazza class (CS221 doubt clearing channel) as I had access to my stanford email account (I was a Stanford Visiting Student). All in all, if you want to learn, stay truthful, learn the contents well, be curious and Maintain Honor Code. CS221 is exciting! 
+CS221 is "the" intro AI class at Stanford and [ [this playlist](https://www.youtube.com/watch?v=8CWyxTrqLJs&list=PLVulhINWRk9GBHV61MTf1ZzaFCcgkszMK) ] in Youtube, lists the video lectures of CS221 Autumn 2018-19 ( I guess someone uploaded the videos without knowing the terms of taking the class ). Having Access to the video lectures is great, makes going through the slides easier. Since I didn't pay for the course [I am not a Full-time Stanford Student], The difference is , you don't get to ask TA's, submit the projects, or get any feedback but, you get access to notes and slides from the course website, get to learn CS221 ( & that's what matters the most). Also, I was lucky to have access to  CS221 Piazza class (CS221 doubt clearing channel) as I had access to my stanford email account (I was a Stanford Visiting Student). All in all, if you want to learn, stay truthful, learn the contents well, be curious and Maintain Honor Code. CS221 is exciting! 
 
 # [[Schedule](http://web.stanford.edu/class/cs221/#schedule)] ; [[Coursework](http://web.stanford.edu/class/cs221/#coursework)] ; [[CS221 2017-18 Autumn Class](http://web.stanford.edu/class/cs221/2018/)] 
 
@@ -21,11 +21,9 @@ Books : [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu
 
 <b> ☍ 4. [Blackjack](http://web.stanford.edu/class/cs221/assignments/blackjack/index.html)</b> ⛫ ( [zip](https://github.com/SKKSaikia/CS221_AI/blob/master/blackjack.zip) )
 
-<img src="https://github.com/SKKSaikia/CS221_AI/blob/master/img/blackjack.jpg" height=150px><a> </a><img src="https://github.com/SKKSaikia/CS221_AI/blob/master/img/blackjack-guide.jpg" height=150px><a> </a><img src="https://github.com/SKKSaikia/CS221_AI/blob/master/img/black-jack-strategien.jpg" height=150px>
-
 <b> ☍ 5. [Pac-Man](http://web.stanford.edu/class/cs221/assignments/pacman/index.html)</b> ⛫ ( [zip](https://github.com/SKKSaikia/CS221_AI/blob/master/pacman.zip) )
 
-<img src="https://github.com/SKKSaikia/CS221_AI/blob/master/img/pacman_multi_agent.png" height=200px><a>...<b>P.A.C.M.A.N</b>...</a><img src="https://github.com/SKKSaikia/CS221_AI/blob/master/img/pacman.gif" height=200px>
+<img src="https://github.com/SKKSaikia/CS221_AI/blob/master/img/pacman_multi_agent.png" height=200px><a> </a><img src="https://github.com/SKKSaikia/CS221_AI/blob/master/img/pacman.gif" height=200px>
 
 <b> ☍ 6. [Course scheduling](http://web.stanford.edu/class/cs221/assignments/scheduling/index.html) </b> ⛫ ( [zip](https://github.com/SKKSaikia/CS221_AI/blob/master/scheduling.zip) )
 
