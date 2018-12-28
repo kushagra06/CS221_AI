@@ -9,7 +9,7 @@ CS221 is "the" intro AI class at Stanford and [ [this playlist](https://www.yout
 
 Books : [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/) , [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 
-# Projects : (py/2.7) | [Final Projects](https://web.stanford.edu/class/cs221/2018/project-list.html)
+# Homeworks : (py/2.7) | [Final Projects](https://web.stanford.edu/class/cs221/2018/project-list.html)
 
 <b> ☍ 1. [Foundations](http://web.stanford.edu/class/cs221/assignments/foundations/index.html) </b> ⛫ ( [zip](https://github.com/SKKSaikia/CS221_AI/blob/master/foundations.zip) )
 
@@ -102,6 +102,11 @@ Books : [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu
 ☄ [N.O.T.E.S](https://github.com/SKKSaikia/CS221_AI/blob/master/notes/CONCLUSION.MD)
 
 ♐[Exam Papers](https://github.com/SKKSaikia/CS221_AI/tree/master/exams) - [F2017](https://github.com/SKKSaikia/CS221_AI/blob/master/exams/2017_final.pdf), [F2016](https://github.com/SKKSaikia/CS221_AI/blob/master/exams/2016_final_solution.pdf), [F2015](https://github.com/SKKSaikia/CS221_AI/blob/master/exams/2015_final.pdf), [M2014](https://github.com/SKKSaikia/CS221_AI/blob/master/exams/2014_Midterm.pdf), [M2013](https://github.com/SKKSaikia/CS221_AI/blob/master/exams/2013-midterm.pdf) , [F2012](https://github.com/SKKSaikia/CS221_AI/blob/master/exams/final_practice_solution_fall_2012.pdf), [M2012](https://github.com/SKKSaikia/CS221_AI/blob/master/exams/midterm_practice_solution_2012.pdf), [PractiveM1](https://github.com/SKKSaikia/CS221_AI/blob/master/exams/PracticeMidterm-1.pdf):[Solution](https://github.com/SKKSaikia/CS221_AI/blob/master/exams/PracticeSolution-1.pdf), [PractiveM2](https://github.com/SKKSaikia/CS221_AI/blob/master/exams/PracticeMidterm-2.pdf):[Solution](https://github.com/SKKSaikia/CS221_AI/blob/master/exams/PracticeSolution-2.pdf) 
+
+[My Solution for CS221 Exams]()
  
 <b> PSets </b> 𓀌 [Search](http://stanford.edu/~cpiech/cs221/homework/pset/search.html) : [Solution](https://docs.google.com/document/d/16akigdAiTuInQrAtZbHtkDCh9c8_0wp5DjU-fCeFJLY/edit#heading=h.y6c5hny1kn74) | [Variables](http://stanford.edu/~cpiech/cs221/homework/pset/variables.html) : [Solution](https://docs.google.com/document/d/13hvQZsgwVfIUA2_QGcExcd9DM6NDHYbRO3yCvO6SPfE/edit#heading=h.oy2zuawh43a7) ||||| [[221@2013](http://stanford.edu/~cpiech/cs221/)] | Project [e.g](https://youtu.be/MkuwIrTuFSM) | [e.gII](https://youtu.be/yY-Di8dT9mY) <br/>
 
+# FINAL PROJECT
+
+Since the Marks Distribution is <b> Homework - 60%</b> , <b> Exam - 20%</b> and <b> Final Project- 20%</b>. The Final project I tried implementing is :
