@@ -19,7 +19,7 @@ Books : [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu
 
 <b> ☍ 4. [Blackjack](http://web.stanford.edu/class/cs221/assignments/blackjack/index.html)</b> ⛫ ( [zip](https://github.com/SKKSaikia/CS221_AI/blob/master/blackjack.zip) )
 
-<img src="https://github.com/SKKSaikia/CS221_AI/blob/master/img/blackjack.jpg" height=200px><a> </a><img src="https://github.com/SKKSaikia/CS221_AI/blob/master/img/blackjack-guide.jpg" height=200px><a> </a><img src="https://github.com/SKKSaikia/CS221_AI/blob/master/img/black-jack-strategien.jpg" height=200px>
+<img src="https://github.com/SKKSaikia/CS221_AI/blob/master/img/blackjack.jpg" height=150px><a> </a><img src="https://github.com/SKKSaikia/CS221_AI/blob/master/img/blackjack-guide.jpg" height=150px><a> </a><img src="https://github.com/SKKSaikia/CS221_AI/blob/master/img/black-jack-strategien.jpg" height=150px>
 
 <b> ☍ 5. [Pac-Man](http://web.stanford.edu/class/cs221/assignments/pacman/index.html)</b> ⛫ ( [zip](https://github.com/SKKSaikia/CS221_AI/blob/master/pacman.zip) )
 
