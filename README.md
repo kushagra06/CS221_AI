@@ -43,55 +43,63 @@ Books : [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu
 ☄ [N.O.T.E.S]()
 
 
-<h2><b> ♞ MACHINE LEARNING</b></h2> [N.O.T.E.S]()
+<h2><b> ♞ MACHINE LEARNING</b></h2>
 
 𓁅 Linear classification, Loss minimization, Stochastic gradient descent [ [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/learning1.pdf) ] , [ [slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/learning1-6pp.pdf) ] <br/>
 𓁅 Section: optimization, probability, Python (review) [ [slide](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/section1.pdf) ] <br/>
 𓁅 Features and non-linearity, Neural networks, nearest neighbors [ [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/learning2.pdf) ] , [ [slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/learning2-6pp.pdf) ] <br/>
 𓁅 Generalization, Unsupervised learning, K-means [ [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/learning3.pdf) ],[ [slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/learning3-6pp.pdf) ] <br/>
 𓁅 Section: Backpropagation and SciKit Learn [ [slide](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/section2.pdf) ] <br/>
+☄ [N.O.T.E.S]()
 
-<h2><b> ♞ SEARCH</b></h2> [N.O.T.E.S]()
+<h2><b> ♞ SEARCH</b></h2>
 
 𓁅 Tree search, Dynamic programming, uniform cost search [ [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/search1.pdf) ] , [ [slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/search1-6pp.pdf) ] <br/>
 𓁅 A*, consistent heuristics, Relaxation [ [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/search2.pdf) ] , [ [slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/search2-6pp.pdf) ] <br/>
 𓁅 Section: UCS,Dynamic Programming, A* [ [slide](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/section3.pdf) ] <br/>
+☄ [N.O.T.E.S]()
 
-<h2><b> ♞ MARKOV DECISION PROCESSES</b></h2> [N.O.T.E.S]()
+<h2><b> ♞ MARKOV DECISION PROCESSES</b></h2>
 
 𓁅 Policy evaluation, policy improvement, Policy iteration, value iteration [ [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/mdp1.pdf) ] , [ [slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/mdp1-6pp.pdf) ] <br/>
 𓁅 Reinforcement learning, Monte Carlo, SARSA, Q-learning, Exploration/exploitation, function approximation [ [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/mdp2.pdf) ] , [ [slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/mdp2-6pp.pdf) ] <br/>
 𓁅 Section: deep reinforcement learning [ [slide](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/section4.pdf) ] <br/>
+☄ [N.O.T.E.S]()
 
-<h2><b> ♞ GAME PLAYING</b></h2> [N.O.T.E.S]()
+<h2><b> ♞ GAME PLAYING</b></h2>
 
 𓁅 Minimax, expectimax, Evaluation functions, Alpha-beta pruning [ [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/games1.pdf) ] , [ [slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/games1-6pp.pdf) ] <br/>
 𓁅 TD learning, Game theory [ [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/games2.pdf) ] , [ [slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/games2-6pp.pdf) ] <br/>
 𓁅 Section: AlphaZero [ [slide](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/section5.pdf) ] <br/>
+☄ [N.O.T.E.S]()
 
-<h2><b> ♞ CONSTRAINT SATISFACTION PROBLEMS</b></h2> [N.O.T.E.S]()
+<h2><b> ♞ CONSTRAINT SATISFACTION PROBLEMS</b></h2>
 
 𓁅 Factor graphs, Backtracking search, Dynamic ordering, arc consistency [ [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/csp1.pdf) ] , [ [slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/csp1-6pp.pdf) ] <br/>
 𓁅 Beam search, local search, Conditional independence, variable elimination [ [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/csp2.pdf) ] , [ [slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/csp2-6pp.pdf) ] <br/>
 𓁅 Section: CSPs [ [slide](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/section6.pdf) ] <br/>
+☄ [N.O.T.E.S]()
 
-<h2><b> ♞ BAYESIAN NETWORKS</b></h2> [N.O.T.E.S]()
+<h2><b> ♞ BAYESIAN NETWORKS</b></h2>
 
 𓁅 Bayesian inference, Marginal independence, Hidden Markov models [ [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/bayes1.pdf) ] , [ [slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/bayes1-6pp.pdf) ] <br/>
 𓁅 Forward-backward, Gibbs sampling, Particle filtering [ [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/bayes2.pdf) ] , [ [slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/bayes2-6pp.pdf) ] <br/>
 𓁅 Section: Bayesian networks [ [slide](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/section7.pdf) ] <br/>
 𓁅 Learning Bayesian networks, Laplace smoothing, Expectation Maximization [ [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/bayes3.pdf) ] , [ [slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/bayes3-6pp.pdf) ] , [ [supplementary]() ] <br/>
+☄ [N.O.T.E.S]()
 
-<h2><b> ♞ LOGIC</b></h2> [N.O.T.E.S]()
+<h2><b> ♞ LOGIC</b></h2>
 
 𓁅 Syntax versus semantics, Propositional logic, Horn clauses [ [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/logic1.pdf) ] , [ [slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/logic1-6pp.pdf) ] <br/>
 𓁅 First-order logic, Resolution [ [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/logic2.pdf) ] , [ [slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/logic2-6pp.pdf) ] <br/>
+☄ [N.O.T.E.S]()
 
-<h2><b> ♞ CONCLUSION</b></h2> [N.O.T.E.S]()
+<h2><b> ♞ CONCLUSION</b></h2>
 
 𓁅 Deep learning, autoencoders, CNNs, RNNs [ [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/deep.pdf) ] , [ [slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/deep-6pp.pdf) ] <br/>
 𓁅 Section: semantic parsing (advanced), Higher-order logics, Markov logic, Semantic parsing [ [slide](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/section9.pdf) ] <br/>
 𓁅 Summary, future of AI [ [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/conclusion.pdf) ] , [ [slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/conclusion-6pp.pdf) ] <br/>
+☄ [N.O.T.E.S]()
 
 ♐[Exam Papers](https://github.com/SKKSaikia/CS221_AI/tree/master/exams) - [F2017](https://github.com/SKKSaikia/CS221_AI/blob/master/exams/2017_final.pdf), [F2016](https://github.com/SKKSaikia/CS221_AI/blob/master/exams/2016_final_solution.pdf), [F2015](https://github.com/SKKSaikia/CS221_AI/blob/master/exams/2015_final.pdf), [M2014](https://github.com/SKKSaikia/CS221_AI/blob/master/exams/2014_Midterm.pdf), [M2013](https://github.com/SKKSaikia/CS221_AI/blob/master/exams/2013-midterm.pdf) , [F2012](https://github.com/SKKSaikia/CS221_AI/blob/master/exams/final_practice_solution_fall_2012.pdf), [M2012](https://github.com/SKKSaikia/CS221_AI/blob/master/exams/midterm_practice_solution_2012.pdf), [PractiveM1](https://github.com/SKKSaikia/CS221_AI/blob/master/exams/PracticeMidterm-1.pdf):[Solution](https://github.com/SKKSaikia/CS221_AI/blob/master/exams/PracticeSolution-1.pdf), [PractiveM2](https://github.com/SKKSaikia/CS221_AI/blob/master/exams/PracticeMidterm-2.pdf):[Solution](https://github.com/SKKSaikia/CS221_AI/blob/master/exams/PracticeSolution-2.pdf) 
  
