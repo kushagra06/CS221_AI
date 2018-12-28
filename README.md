@@ -7,7 +7,9 @@ CS221 is "the" intro AI class at Stanford and [ [this playlist](https://www.yout
 
 <p align="justify">What do web search, speech recognition, face recognition, machine translation, autonomous driving, and automatic scheduling have in common? These are all complex real-world problems, and the goal of artificial intelligence (AI) is to tackle these with rigorous mathematical tools. In this course, we will learn the foundational principles that drive these applications and practice implementing some of these systems. Specific topics include <b>machine learning, search, game playing, Markov decision processes, constraint satisfaction, graphical models, and logic</b>. The main goal of the course is to equip us with the tools to tackle new AI problems we might encounter in life.</p>
 
-Books : [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/) , [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
+Books : [Artificial Intelligence: A Modern Approach / AIMA](http://aima.cs.berkeley.edu/) , [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
+
+<b>AIMA</b> is a great book. Here - [PSEUDOCODE algorithms](https://github.com/SKKSaikia/CS221_AI/blob/master/docs/algorithms.pdf), [AIMA code repo](http://aima.cs.berkeley.edu/code.html), [Resources](http://aima.cs.berkeley.edu/books.html) from the book. 
 
 # Homeworks : (py/2.7) 
 
