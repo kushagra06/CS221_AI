@@ -107,6 +107,8 @@ Books : [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu
  
 <b> PSets </b> 𓀌 [Search](http://stanford.edu/~cpiech/cs221/homework/pset/search.html) : [Solution](https://docs.google.com/document/d/16akigdAiTuInQrAtZbHtkDCh9c8_0wp5DjU-fCeFJLY/edit#heading=h.y6c5hny1kn74) | [Variables](http://stanford.edu/~cpiech/cs221/homework/pset/variables.html) : [Solution](https://docs.google.com/document/d/13hvQZsgwVfIUA2_QGcExcd9DM6NDHYbRO3yCvO6SPfE/edit#heading=h.oy2zuawh43a7) ||||| [[221@2013](http://stanford.edu/~cpiech/cs221/)] | Project [e.g](https://youtu.be/MkuwIrTuFSM) | [e.gII](https://youtu.be/yY-Di8dT9mY) <br/>
 
+- I would like to understand the contents from - [STATS 202: Data Mining and Analysis](http://web.stanford.edu/class/stats202/), [CS103: Mathematical Foundations of Computing](http://web.stanford.edu/class/cs103/), [CS109: Probability for Computer Scientists](http://web.stanford.edu/class/cs109/) before starting AI. These are the Mathematics behind AI. Also read, [Decision Making Under Uncertainty: Theory and Application by Mykel J. Kochenderfer pdf](https://mitpress.mit.edu/books/decision-making-under-uncertainty) , which serves as the coursebook for [CS238](https://web.stanford.edu/class/aa228/cgi-bin/wp/)
+
 # FINAL PROJECT | [Past Final Projects](https://web.stanford.edu/class/cs221/2018/project-list.html)
 
 Since the Marks Distribution is <b> Homework - 60%</b> , <b> Exam - 20%</b> and <b> Final Project- 20%</b>. I legit enjoy learning the past posters of CS221, they are exciting. The Final project I made is : <b>" AI playing Mario : Reinforcement Learning Approach "</b>, [here](https://github.com/SKKSaikia/Mario_AI) is the implementation/code and the poster of the project is [here]():
