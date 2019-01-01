@@ -109,6 +109,8 @@ Books : [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu
 
 - I would like to understand the contents from - [STATS 202: Data Mining and Analysis](http://web.stanford.edu/class/stats202/), [CS103: Mathematical Foundations of Computing](http://web.stanford.edu/class/cs103/), [CS109: Probability for Computer Scientists](http://web.stanford.edu/class/cs109/) before starting AI. These are the Mathematics behind AI. Also read, [Decision Making Under Uncertainty: Theory and Application by Mykel J. Kochenderfer](https://mitpress.mit.edu/books/decision-making-under-uncertainty) : [pdf](https://github.com/SKKSaikia/CS221_AI/blob/master/docs/pomdps.pdf), which serves as the coursebook for [CS238:Decision Making under Uncertainty](https://web.stanford.edu/class/aa228/cgi-bin/wp/). [CS246: Mining Massive Data Sets](http://web.stanford.edu/class/cs246/) is important as well for AI.
 
+- [Udacity's Artificial Intelligence and AI Programming with Python Nanodegree](https://github.com/SKKSaikia/AINanoD)
+
 # FINAL PROJECT | [Past Final Projects](https://web.stanford.edu/class/cs221/2018/project-list.html)
 
 Since the Marks Distribution is <b> Homework - 60%</b> , <b> Exam - 20%</b> and <b> Final Project- 20%</b>. I legit enjoy learning the past posters of CS221, they are exciting. The Final project I made is : <b>" AI playing Mario : Reinforcement Learning Approach "</b>, [here](https://github.com/SKKSaikia/Mario_AI) is the implementation/code and the poster of the project is [here]():
