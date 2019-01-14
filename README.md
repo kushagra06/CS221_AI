@@ -1,3 +1,5 @@
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FSKKSaikia%2FCS221_AI)
+
 # [CS221: Artificial Intelligence: Principles and Techniques](http://web.stanford.edu/class/cs221/)
 <img src="https://github.com/SKKSaikia/CS221_AI/blob/master/img/cs221.PNG">
 
